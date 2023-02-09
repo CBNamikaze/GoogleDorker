@@ -1,2 +1,2 @@
 # GoogleDorker
-Telegram Bot
+Telegram Bot to easily employ google dorking.
