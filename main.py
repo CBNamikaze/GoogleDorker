@@ -8,7 +8,7 @@ from requests_html import HTML
 from requests_html import HTMLSession
 from telebot import types
 
-API_KEY = "5303940398:AAGZktlIPtUpS9jCc2t0Ufo4mEpTnGMd-6o"
+API_KEY = "<api_key>"
 bot = telebot.TeleBot(API_KEY)
 txt=''
 
